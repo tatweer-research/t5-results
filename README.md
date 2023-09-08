@@ -23,13 +23,13 @@ Number of current models including the 8 pretrained on Privaseer: 92
 
 |                   |       t5 |   t5-v1.1 |   priva_t5 |   priva_t5-v1.1 |
 |:------------------|---------:|----------:|-----------:|----------------:|
-| policy\_ie\_a     | 0        |  0        |    0       |        0        |
-| opp\_115          | 0.801986 |  0        |    0       |        0        |
-| piextract         | 0        |  0        |    0.44924 |        0        |
-| policy\_detection | 0        |  0        |    0       |        0.163683 |
-| policy\_ie\_b     | 0        |  0        |    0       |        0        |
-| policy\_qa        | 0.979769 |  0        |    0       |        0        |
-| privacy\_qa       | 0        |  0.900016 |    0       |        0        |
+| policy\_ie\_a     | 0        |  0        |   0        |        0        |
+| opp\_115          | 0.801986 |  0        |   0.586887 |        0        |
+| piextract         | 0.445171 |  0        |   0.44924  |        0        |
+| policy\_detection | 0.841432 |  0.877238 |   0.905371 |        0.163683 |
+| policy\_ie\_b     | 0.395435 |  0        |   0        |        0        |
+| policy\_qa        | 0.979769 |  0        |   0        |        0        |
+| privacy\_qa       | 0        |  0.900016 |   0        |        0        |
  
 
 ### base
