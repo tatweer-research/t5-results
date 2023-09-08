@@ -28,7 +28,7 @@ Number of current models including the 8 pretrained on Privaseer: 92
 | piextract         | 0.445171 |  0        |   0.44924  |        0        |
 | policy\_detection | 0.841432 |  0.877238 |   0.905371 |        0.163683 |
 | policy\_ie\_b     | 0.395435 |  0        |   0.332594 |        0        |
-| policy\_qa        | 0.979769 |  0        |   0        |        0        |
+| policy\_qa        | 0.979769 |  0.970617 |   0.936416 |        0        |
 | privacy\_qa       | 0        |  0.900016 |   0        |        0        |
  
 
