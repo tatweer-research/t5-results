@@ -29,7 +29,7 @@ Number of current models including the 8 pretrained on Privaseer: 92
 | policy\_detection | 0.641 |         0 |      0     |               0 |
 | policy\_ie\_b     | 0.444 |         0 |      0.468 |               0 |
 | policy\_qa        | 0.171 |         0 |      0.174 |               0 |
-| privacy\_qa       | 0     |         0 |      0.474 |               0 |
+| privacy\_qa       | 0.532 |         0 |      0.474 |               0 |
  
 
 ### base
