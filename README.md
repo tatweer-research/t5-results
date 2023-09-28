@@ -21,29 +21,29 @@ Number of current models including the 8 pretrained on Privaseer: 92
 ### small
 
 
-|                   |   t5 |   t5-v1.1 |   priva_t5 |   priva_t5-v1.1 |
-|:------------------|-----:|----------:|-----------:|----------------:|
-| policy\_ie\_a     |    0 |         0 |      0     |               0 |
-| opp\_115          |    0 |         0 |      0     |               0 |
-| piextract         |    0 |         0 |      0     |               0 |
-| policy\_detection |    0 |         0 |      0     |               0 |
-| policy\_ie\_b     |    0 |         0 |      0     |               0 |
-| policy\_qa        |    0 |         0 |      0     |               0 |
-| privacy\_qa       |    0 |         0 |      0.474 |               0 |
+|                   |    t5 |   t5-v1.1 |   priva_t5 |   priva_t5-v1.1 |
+|:------------------|------:|----------:|-----------:|----------------:|
+| policy\_ie\_a     | 0.682 |         0 |      0     |               0 |
+| opp\_115          | 0     |         0 |      0     |               0 |
+| piextract         | 0.523 |         0 |      0     |               0 |
+| policy\_detection | 0.641 |         0 |      0     |               0 |
+| policy\_ie\_b     | 0.444 |         0 |      0     |               0 |
+| policy\_qa        | 0     |         0 |      0     |               0 |
+| privacy\_qa       | 0     |         0 |      0.474 |               0 |
  
 
 ### base
 
 
-|                   |   t5 |   t5-v1.1 |   priva_t5 |   priva_t5-v1.1 |
-|:------------------|-----:|----------:|-----------:|----------------:|
-| policy\_ie\_a     |    0 |         0 |      0.777 |               0 |
-| opp\_115          |    0 |         0 |      0     |               0 |
-| piextract         |    0 |         0 |      0.298 |               0 |
-| policy\_detection |    0 |         0 |      0     |               0 |
-| policy\_ie\_b     |    0 |         0 |      0     |               0 |
-| policy\_qa        |    0 |         0 |      0     |               0 |
-| privacy\_qa       |    0 |         0 |      0     |               0 |
+|                   |    t5 |   t5-v1.1 |   priva_t5 |   priva_t5-v1.1 |
+|:------------------|------:|----------:|-----------:|----------------:|
+| policy\_ie\_a     | 0.736 |         0 |      0.777 |               0 |
+| opp\_115          | 0     |         0 |      0     |               0 |
+| piextract         | 0     |         0 |      0.298 |               0 |
+| policy\_detection | 0     |         0 |      0.793 |               0 |
+| policy\_ie\_b     | 0     |         0 |      0     |               0 |
+| policy\_qa        | 0     |         0 |      0     |               0 |
+| privacy\_qa       | 0     |         0 |      0     |               0 |
  
 
 ### large
