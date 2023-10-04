@@ -21,16 +21,16 @@ Number of current models including the 8 pretrained on Privaseer: 92
 ### small
 
 
-|                   |                            t5 |   t5-v1.1 |                      priva_t5 |   priva_t5-v1.1 |
-|:------------------|------------------------------:|----------:|------------------------------:|----------------:|
-| policy\_ie\_a     |                         0.682 |         0 |                         0.709 |               0 |
-| opp\_115          |                         0.770 |         0 |                         0.760 |               0 |
-| piextract         |                         0.523 |         0 |                         0.627 |               0 |
-| policy\_detection |                         0.641 |         0 |                         0.846 |               0 |
-| policy\_ie\_b     |                         0.444 |         0 |                         0.468 |               0 |
-| policy\_qa        |                         0.171 |         0 |                         0.174 |               0 |
-| privacy\_qa       |                         0.532 |         0 |                         0.474 |               0 |
-| title\_generation | rouge1 27.62<br/>rouge2 10.90 |           | rouge1 32.77<br/>rouge2 14.40 |                 |
+|                   |                    t5 |   t5-v1.1 |              priva_t5 |   priva_t5-v1.1 |
+|:------------------|----------------------:|----------:|----------------------:|----------------:|
+| policy\_ie\_a     |                 0.682 |         0 |                 0.709 |               0 |
+| opp\_115          |                 0.770 |         0 |                 0.760 |               0 |
+| piextract         |                 0.523 |         0 |                 0.627 |               0 |
+| policy\_detection |                 0.641 |         0 |                 0.846 |               0 |
+| policy\_ie\_b     |                 0.444 |         0 |                 0.468 |               0 |
+| policy\_qa        |                 0.171 |         0 |                 0.174 |               0 |
+| privacy\_qa       |                 0.532 |         0 |                 0.474 |               0 |
+| title\_generation | rouge1 0<br/>rouge2 0 |           | rouge1 0<br/>rouge2 0 |                 |
  
 
 ### base
