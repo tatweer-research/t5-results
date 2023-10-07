@@ -59,7 +59,7 @@ Number of current models including the 8 pretrained on Privaseer: 92
 | policy\_detection |                                          0.886 |       0 |                                          0.879 |             0 |
 | policy\_ie\_b     |                                          0.489 |       0 |                                          0.516 |             0 |
 | policy\_qa        |                                          0.194 |       0 |                                          0.207 |             0 |
-| privacy\_qa       |                                              0 |       0 |                                              0 |             0 |
+| privacy\_qa       |                                          0.540 |       0 |                                              0 |             0 |
 | title\_generation | rouge1 0.557<br/>rouge2 0.362<br/>rougeL 0.544 |       0 | rouge1 0.575<br/>rouge2 0.388<br/>rougeL 0.565 |             0 |
 
 
